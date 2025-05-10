@@ -1,2 +1,2 @@
 # disco-bot
-Discord bot for fun!
+Discord bot designed to keep you company!
